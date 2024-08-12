@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|c:\\users\\giolga\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|c:\\users\\giolga\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Migrations\\20240812193523_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperHeroApi-DotNet8\\Migrations\\20240812193523_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|c:\\users\\giolga\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|c:\\users\\giolga\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|c:\\users\\giolga\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB237AB-9153-4ADE-87A1-C8EB50953E01}|SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240812193523_init1.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Migrations\\20240812193523_init1.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi-DotNet8\\Migrations\\20240812193523_init1.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Migrations\\20240812193523_init1.cs",
+              "RelativeToolTip": "SuperHeroApi-DotNet8\\Migrations\\20240812193523_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:35:24.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi-DotNet8\\Program.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Program.cs",
+              "RelativeToolTip": "SuperHeroApi-DotNet8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:33:10.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperHeroApi-DotNet8\\appsettings.json",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\appsettings.json",
+              "RelativeToolTip": "SuperHeroApi-DotNet8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T19:29:53.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi-DotNet8\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Data\\DataContext.cs",
+              "RelativeToolTip": "SuperHeroApi-DotNet8\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:26:17.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Controllers\\SuperHeroController.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi-DotNet8\\Controllers\\SuperHeroController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Controllers\\SuperHeroController.cs",
+              "RelativeToolTip": "SuperHeroApi-DotNet8\\Controllers\\SuperHeroController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwEgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:15:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Entities\\SuperHero.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi-DotNet8\\Entities\\SuperHero.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\SuperHeroApi-DotNet8\\SuperHeroApi-DotNet8\\Entities\\SuperHero.cs",
+              "RelativeToolTip": "SuperHeroApi-DotNet8\\Entities\\SuperHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:13:56.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
